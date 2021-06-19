@@ -1,0 +1,1 @@
+[![CMake](https://github.com/Ehrippura/github-action-demo/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/Ehrippura/github-action-demo/actions/workflows/cmake.yml)
